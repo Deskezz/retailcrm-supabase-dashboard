@@ -2,11 +2,7 @@
 
 Полнофункциональная система управления заказами с интеграцией RetailCRM, Supabase и Telegram уведомлениями.
 
-### Dashboard
-![Order Dashboard](./screenshots/dashboard.png)
-
-### Telegram Notifications
-![Telegram Bot](./screenshots/telegram.png)
+[🔗 Live Demo](https://retailcrm-supabase-dashboard-9m5nn9kyf-deskezz.vercel.app)
 
 ## 🚀 Стек технологий
 
@@ -26,6 +22,12 @@
 - ✅ Telegram уведомления о крупных заказах (> 50,000 ₸)
 - ✅ Отслеживание источников трафика (UTM)
 - ✅ Темная минималистичная тема
+
+### Dashboard
+![Order Dashboard](./screenshots/dashboard.png)
+
+### Telegram Notifications
+![Telegram Bot](./screenshots/telegram.png)
 
 ## 🛠 Установка
 
