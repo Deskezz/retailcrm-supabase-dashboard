@@ -1,0 +1,35 @@
+{
+  "name": "project41",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "upload": "node scripts/upload_to_crm.js",
+    "sync": "node scripts/sync_to_supabase.js",
+    "randomize": "node scripts/randomize_dates.js",
+    "notify": "node scripts/telegram_bot.js",
+    "update-fields": "node scripts/update_supabase_fields.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "@types/node": "^20.10.5",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.18",
+    "autoprefixer": "^10.4.16",
+    "dotenv": "^16.3.1",
+    "lucide-react": "^0.294.0",
+    "next": "15.1.0",
+    "postcss": "^8.4.32",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "recharts": "^2.10.3",
+    "tailwindcss": "3.4.1",
+    "typescript": "5.3.3"
+  }
+}
