@@ -2,6 +2,12 @@
 
 Полнофункциональная система управления заказами с интеграцией RetailCRM, Supabase и Telegram уведомлениями.
 
+### Dashboard
+![Order Dashboard](./screenshots/dashboard.png)
+
+### Telegram Notifications
+![Telegram Bot](./screenshots/telegram.png)
+
 ## 🚀 Стек технологий
 
 - **Frontend:** Next.js 15.1.0 (App Router), React 18.3.1, TypeScript 5.3.3
